@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.mixamus.signature.starter.autoconfigure.SignatureAutoConfiguration
